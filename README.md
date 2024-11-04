@@ -1,4 +1,4 @@
-# Laurel Asimiea
+# Data Scientist
 Portfolio build in progress
 
 ### Education
